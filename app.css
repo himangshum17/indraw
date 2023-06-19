@@ -7,3 +7,6 @@ body {
 *::before {
   box-sizing: border-box;
 }
+canvas {
+  display: block;
+}
